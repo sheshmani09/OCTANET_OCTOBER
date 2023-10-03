@@ -1,2 +1,3 @@
 # OCTANET_OCTOBER
-octanet webdevelopment internship repo
+octanet webdevelopment internship repository.
+Author - Sheshmani Sahu
